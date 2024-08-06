@@ -16,7 +16,7 @@ class __init___:
 
         Webbot
         
-        Author: Mohammad
+        Author: UnexpectedUser
     """
 
 class main:
