@@ -8,7 +8,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 
-class __init___:
+class __init__:
     """
         only compatible with windows
         version:0.11
@@ -102,3 +102,4 @@ class main:
                 print('Url not avalible')
                 print('Exit Timeout(0)')
                 exit()
+
